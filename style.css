@@ -1,0 +1,19 @@
+body{
+	background-color: #C0392B;
+}
+.center{
+	display block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	width: 400px;
+
+}
+titulo{
+ font-family: 'PWYummyDonuts', sans-serif;                                       
+	font-size: 40px;
+	align-content: center;
+}
+table{
+	margin-left: 300px;
+}
